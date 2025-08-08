@@ -21,7 +21,7 @@ You can install Omakos using one of these two methods:
 Run this single command in your terminal:
 
 ```sh
-curl -L https://raw.githubusercontent.com/yatish27/omakos/main/install.sh | bash
+curl -L https://raw.githubusercontent.com/cpjobling/omakos/main/install.sh | bash
 ```
 
 ### Option 2: Manual Install
@@ -31,7 +31,7 @@ If you prefer to review the code first:
 1. Download the repo:
 
 ```sh
-git clone https://github.com/yatish27/omakos.git && cd omakos
+git clone https://github.com/cpjobling/omakos.git && cd omakos
 ```
 
 2. Review the scripts (please don't run scripts you don't understand):
@@ -202,7 +202,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-Inspiration and code was taken from many sources, including:
+Forked from [yatish27/omakus](https://github.com/yatish27/omakos).
+
+Who took inspiration and code from many sources, including:
 
 - [Formation](https://github.com/minamarkham/formation) by Mina Markham
 - [Omakub](https://github.com/basecamp/omakub)
