@@ -17,15 +17,16 @@ brew "overmind"
 brew "pnpm"
 brew "postgresql@17"
 brew "redis"
-brew "uv"
+brew "uv"0
 brew "vips"
 brew "wget"
 brew "zsh"
+brew "nvim"
 
 # Cask applications
 cask "1password"
-# cask "brave-browser"
-cask "vivaldi" # Vivalidi browser
+cask "brave-browser"
+cask "vivaldi" # browser
 #cask "chatgpt"
 #cask "claude"
 #cask "cursor"
@@ -40,7 +41,7 @@ cask "pearcleaner"
 cask "raycast"
 cask "rectangle"
 #cask "slack"
-#cask "superwhisper"
+cask "superwhisper"
 cask "whatsapp"
 cask "zoom"
 

@@ -68,7 +68,7 @@ All packages are managed through Homebrew and defined in [`configs/Brewfile`](co
 
 ### Development Environment
 
-- [Cursor](https://cursor.sh/) - AI-powered code editor
+- [Cursor](https://cursor.sh/) - AI-powered code editor (not installed)
 - [Ghostty](https://github.com/mitchellh/ghostty) - Modern terminal emulator
 - [Docker](https://www.docker.com/) for containerization
 - [OrbStack](https://orbstack.dev/) for Docker and Linux development on macOS
@@ -91,16 +91,17 @@ All packages are managed through Homebrew and defined in [`configs/Brewfile`](co
 
 - [1Password](https://1password.com/)
 - [Brave Browser](https://brave.com/)
+- [Vivaldi Browser](https://vivaldi.com)
 - [Discord](https://discord.com/)
 - [iTerm2](https://iterm2.com/)
 - [Obsidian](https://obsidian.md/)
 - [Raycast](https://www.raycast.com/)
 - [Rectangle](https://rectangleapp.com/)
-- [Claude](https://claude.ai/)
+- [Claude](https://claude.ai/) - Not installed
 - [NetNewsWire](https://netnewswire.com/)
 - [PearCleaner](https://www.pearcleaner.com/)
 - [IINA](https://iina.io/)
-- [Slack](https://slack.com/)
+- [Slack](https://slack.com/) - Not installed
 - [SuperWhisper](https://superwhisper.com/)
 - [WhatsApp](https://www.whatsapp.com/)
 - [Zoom](https://zoom.us/)
@@ -202,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-Forked from [yatish27/omakus](https://github.com/yatish27/omakos).
+Forked from [yatish27/omakos](https://github.com/yatish27/omakos).
 
 Who took inspiration and code from many sources, including:
 
